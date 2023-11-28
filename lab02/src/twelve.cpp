@@ -136,32 +136,8 @@ Twelve Twelve::operator-(const Twelve &other) const {
     return  Twelve(result);
 }
 
-/*Twelve Twelve::operator+(const Twelve &other) const
-{
-    size_t resultSize = std::max(other.size, size) + 1;
-    std::string result(resultSize, '0');
-    int carry = 0;
-    for (size_t i = 0; i < resultSize; i++)
-    {
-        int d1 = (i < size) ? (number[i] != 'A' ? (number[i] - '0') : 10) : 0;
-        int d2 = (i < other.size) ? (other.number[i] != 'A' ? (other.number[i] - '0') : 10) : 0;
 
-        int sum = d1 + d2 + carry;
-        result[i] = ((sum % 11) != 10) ? (sum % 11) + '0' : 'A';
-        carry = sum / 11;
-    }
-    if (carry > 0)
-    {
-        result[resultSize - 1] = (carry != 10) ? carry + '0' : 'A';
-    }
-    if (result[resultSize - 1] == '0')
-    {
-        result.erase(resultSize - 1, 1);
-    }
-    std::reverse(result.begin(), result.end());
-    return Twelve(result);
-}*/
-
+ 
 Twelve Twelve::operator+(const Twelve &other) const {
     size_t resultSize = std::max(other.size, size)+1;
     std::string result (resultSize, '0');
