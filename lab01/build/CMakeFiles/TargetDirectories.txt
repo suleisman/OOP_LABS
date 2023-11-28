@@ -1,0 +1,4 @@
+/home/serafim/programses/opp/lab01/build/CMakeFiles/task.dir
+/home/serafim/programses/opp/lab01/build/CMakeFiles/tests.dir
+/home/serafim/programses/opp/lab01/build/CMakeFiles/edit_cache.dir
+/home/serafim/programses/opp/lab01/build/CMakeFiles/rebuild_cache.dir
