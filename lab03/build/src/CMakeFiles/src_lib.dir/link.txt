@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc_lib.a CMakeFiles/src_lib.dir/list.cpp.o CMakeFiles/src_lib.dir/octagon.cpp.o CMakeFiles/src_lib.dir/point.cpp.o CMakeFiles/src_lib.dir/square.cpp.o CMakeFiles/src_lib.dir/triangle.cpp.o
+/usr/bin/ranlib libsrc_lib.a
