@@ -1,0 +1,1 @@
+add_library(src_lib list.cpp octagon.cpp point.cpp square.cpp triangle.cpp)
