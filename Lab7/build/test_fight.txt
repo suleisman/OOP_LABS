@@ -1,0 +1,20 @@
+
+Murder --------
+3 Squirrel {1, 1} 
+2 Werewolf {0, 0} 
+3 Squirrel kills 2 Werewolf
+
+Murder --------
+2 Werewolf {0, 0} 
+1 Druid {1, 1} 
+2 Werewolf kills 1 Druid
+
+Murder --------
+3 Squirrel {1, 1} 
+2 Werewolf {0, 0} 
+3 Squirrel kills 2 Werewolf
+
+Murder --------
+2 Werewolf {0, 0} 
+1 Druid {1, 1} 
+2 Werewolf kills 1 Druid
