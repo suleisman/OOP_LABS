@@ -1,0 +1,1 @@
+add_library(src_lib druid.cpp factory.cpp npc.cpp observer.cpp squirrel.cpp visitor.cpp werewolf.cpp)
