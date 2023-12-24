@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsrc_lib.a CMakeFiles/src_lib.dir/druid.cpp.o CMakeFiles/src_lib.dir/factory.cpp.o CMakeFiles/src_lib.dir/npc.cpp.o CMakeFiles/src_lib.dir/observer.cpp.o CMakeFiles/src_lib.dir/squirrel.cpp.o CMakeFiles/src_lib.dir/visitor.cpp.o CMakeFiles/src_lib.dir/werewolf.cpp.o
-/usr/bin/ranlib libsrc_lib.a
